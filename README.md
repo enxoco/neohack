@@ -39,7 +39,7 @@ feature-flags system, and ADConfig for easy configuration.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/abdellatif-temsamani/adev.nvim ~/.config/nvim
+   git clone https://github.com/enxoco/neohack ~/.config/nvim
    ```
 
 2. **Start Neovim:**
