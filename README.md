@@ -1,8 +1,3 @@
-> **Personal Statement**
->
-> I stand in solidarity with the Palestinian people and support their
-> fundamental human rights. I oppose ongoing violence, occupation, and human
-> rights violations, and I call for justice, dignity, and freedom for all.
 
 # Adev.nvim 🚀
 
